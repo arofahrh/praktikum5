@@ -25,6 +25,7 @@
  - Menampilkan seluruh data mahasiswa yang ada dalam format tabel yang rapi, dengan informasi NIM, nama, nilai tugas, UTS, UAS, dan nilai akhir.
 6. Fungsi cari data:
  - Mencari data mahasiswa berdasarkan NIM. Jika NIM ditemukan, data lengkap mahasiswa akan ditampilkan.
-
+7. Menu Utama:
+ - Program menampilkan menu pilihan (lihat, tambah, ubah, hapus, cari, keluar) dan mengeksekusi fungsi yang sesuai berdasarkan input pengguna.
 
    
